@@ -2,9 +2,9 @@
 
 <img src="https://universoretro.com.br/wp-content/uploads/2021/03/snake.jpg" width = 300/>
 
-Em 1976 foi lançando o primeiro jogo da combrinha onde o jogo que ficou conhecido por diversas versões cuja versão inicial começou com o jogo Blockade, sendo feitas várias imitações em vídeo-games e computadores, então eu decedir refazer esse jogo com a linguagem python seguindo as instruções feita pela <a href="https://www.edureka.co/blog/snake-game-with-pygame/">Edureka!</a>
+Em 1976 foi lançando o primeiro jogo da combrinha onde o jogo ficou conhecido por diversas versões cuja versão inicial começou com o jogo Blockade, sendo feitas várias imitações em vídeo-games e computadores, então eu decedir refazer esse jogo com a linguagem python seguindo as instruções feita pela <a href="https://www.edureka.co/blog/snake-game-with-pygame/">Edureka!</a>
 
-# Comandos para jogar o jogo
+## Comandos para jogar o jogo
 
 <img src ="https://www.publicdomainpictures.net/pictures/70000/velka/keyboard-arrows.jpg" width = 300/>
 
